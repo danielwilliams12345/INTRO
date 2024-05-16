@@ -12,7 +12,7 @@ But yes, I prefer people ask for my code, so I can also learn a little and be up
 
 Feel free to chat with me (even if you have a random question about food), I want to do grow and help others do the same! 
 
-Thanks!
+Best!
 
 - Daniel
 
