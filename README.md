@@ -1,6 +1,6 @@
 Hi, I’m @danielwilliams12345
 
-On here, I plan to share my code (Python and soon-to-be Java).
+On here, I plan to share my code (Python and a little C++).
 I want to publish my code in hopes for others to improve it. 
 I also want to discover the projects of other creators to further my knowledge and understanding
 
